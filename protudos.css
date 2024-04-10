@@ -2,7 +2,29 @@ header {
     background: #da98eb;
 }
 
-nav l1 {
+nav li {
     display: inline;
     margin: 0 0 0 15px;
+}
+  
+nav a {
+     text-transform: uppercase;
+     color: antiquewhite;
+     font-weight: bold;
+     font-size: 22px;
+     text-decoration: none;
+}
+
+nav {
+
+    position: absolute;
+    top: 110px;
+    right: 80px;
+}
+
+.caixa {
+
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
