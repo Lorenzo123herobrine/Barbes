@@ -1,5 +1,6 @@
 header {
     background: #da98eb;
+    padding: 20px;
 }
 
 nav li {
@@ -27,4 +28,9 @@ nav {
     position: relative;
     width: 940px;
     margin: 0 auto;
+}
+body {
+    
+    background-color: antiquewhite;
+    
 }
