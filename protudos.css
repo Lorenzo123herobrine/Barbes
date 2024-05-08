@@ -1,5 +1,5 @@
 header {
-    background: #da98eb;
+    background: #77727971;
     padding: 20px;
 }
 
@@ -33,4 +33,30 @@ body {
     
     background-color: antiquewhite;
     
+}
+
+.produto-descricao {
+    color: rgb(0, 0, 0);
+
+}
+
+.produto-preco {
+    color: black
+}
+
+.produtos {
+     width: 940px;
+     margin: o auto;
+     padding: 30px 0;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+
 }
